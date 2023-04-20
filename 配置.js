@@ -17,11 +17,11 @@ var settings = {
         // 按钮边框颜色
         borderColor: "pink",
         // 按钮宽度
-        width: "250",
+        width: "255",
         // 按钮高度
-        height: "350",
+        height: "70",
         // 按钮字体大小
-        size: "15",
+        size: "45",
         // 按钮圆角，可根据喜好调节
         borderRadius: "10"
     },

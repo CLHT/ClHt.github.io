@@ -17,9 +17,9 @@ var settings = {
         // 按钮边框颜色
         borderColor: "pink",
         // 按钮宽度
-        width: "350",
+        width: "250",
         // 按钮高度
-        height: "500",
+        height: "350",
         // 按钮字体大小
         size: "15",
         // 按钮圆角，可根据喜好调节
@@ -37,7 +37,7 @@ var settings = {
     // 文字配置
     text: {
         // 文字内容
-        content: "美女47\n就是 666！！！",
+        content: "美女 47 就是 6 6 6 !!!",
         // 字体大小
         size: "25",
         // 文字宽度

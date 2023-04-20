@@ -11,15 +11,15 @@ var settings = {
     // 开始按钮配置
     button: {
         // 按钮内容
-        text: "美女 47 的礼物",
+        text: "点我打开 47 的礼物",
         // 按钮字体颜色
         color: "#FFF",
         // 按钮边框颜色
         borderColor: "pink",
         // 按钮宽度
-        width: "255",
+        width: "350",
         // 按钮高度
-        height: "50",
+        height: "500",
         // 按钮字体大小
         size: "15",
         // 按钮圆角，可根据喜好调节
